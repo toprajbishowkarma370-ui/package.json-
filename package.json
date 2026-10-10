@@ -1,0 +1,12 @@
+{
+  "name": "nexabuild-ai-builder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NexaBuild AI website builder",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}
